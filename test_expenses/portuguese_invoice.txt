@@ -1,0 +1,27 @@
+Mercado Portugues
+Rua da Liberdade, 123
+Lisboa, Portugal
+
+Contribuinte: PT123456789
+Fatura N°: FT-2024-0567
+
+Data: 15-05-2024
+Hora: 14:35:22
+
+Item                 Qty    Preco     Total
+--------------------------------
+Água Mineral         2      €1.25     €2.50
+Pão Tradicional      3      €0.85     €2.55
+Queijo Regional      1      €5.75     €5.75
+Vinho Verde          1      €8.95     €8.95
+--------------------------------
+                          Subtotal: €19.75
+                               IVA: €4.54
+                             TOTAL: €24.29
+
+Pagamento: Cartão Bancário
+Valor Pago: €24.29
+Troco: €0.00
+
+Obrigado pela preferência!
+Volte sempre. 

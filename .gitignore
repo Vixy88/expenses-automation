@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+expenses.csv
+*_summary.csv
+*_unprocessed.csv
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
+# Logs
+*.log
+logs/
+
+# Local configuration
+config.ini
+settings.local.py
+
+# OpenAI API key file (if used)
+.env.openai
